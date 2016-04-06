@@ -1,2 +1,2 @@
 # hello-world
-This is a practice example
+Let's modify this file slightly. Ok, that's enough.
